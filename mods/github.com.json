@@ -1,6 +1,0 @@
-{
-"github.com":{
-"type": "xpath",
-"xpath": "div[@id='js-repo-pjax-container']"
-}
-}
